@@ -1,0 +1,11 @@
+@article{REPO269,
+    author = "Mao, Kelong and Zhu, Jieming and Su, Liangcai and Cai, Guohao and Li, Yuru and Dong, Zhenhua",
+    doi = "10.1609/aaai.v37i4.25577",
+    journal = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "4",
+    pages = "4552--4560",
+    title = "{FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction}",
+    url = "https://ojs.aaai.org/index.php/AAAI/article/view/25577",
+    volume = "37",
+    year = "2023"
+}
