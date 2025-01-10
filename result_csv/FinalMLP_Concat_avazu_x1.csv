@@ -1,0 +1,1 @@
+ 20241129-155643,[command] python run_expid.py --config ./config/FinalMLP_Concat_avazu_x1 --expid FinalMLP_Concat_avazu_x1_001_c4b833c5 --gpu 0,[exp_id] FinalMLP_Concat_avazu_x1_001_c4b833c5,[dataset_id] avazu_x1_0bbde04e,[train] N.A.,[val] AUC: 0.746890 - logloss: 0.395723,[test] AUC: 0.764961 - logloss: 0.366509

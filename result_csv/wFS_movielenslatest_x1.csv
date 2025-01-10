@@ -1,0 +1,1 @@
+ 20241128-110817,[command] python run_expid.py --config ./config/wFS_movielenslatest_x1 --expid wFS_movielenslatest_x1_001_25b6333c --gpu 0,[exp_id] wFS_movielenslatest_x1_001_25b6333c,[dataset_id] movielenslatest_x1_233328b6,[train] N.A.,[val] AUC: 0.972345 - logloss: 0.219941,[test] AUC: 0.972376 - logloss: 0.220354

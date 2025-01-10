@@ -1,0 +1,1 @@
+ 20241129-150347,[command] python run_expid.py --config ./config/FinalMLP_EWP_movielenslatest_x1 --expid FinalMLP_EWP_movielenslatest_x1_001_25b6333c --gpu 0,[exp_id] FinalMLP_EWP_movielenslatest_x1_001_25b6333c,[dataset_id] movielenslatest_x1_233328b6,[train] N.A.,[val] AUC: 0.971429 - logloss: 0.212897,[test] AUC: 0.971444 - logloss: 0.213203

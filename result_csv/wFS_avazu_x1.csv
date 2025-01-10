@@ -1,0 +1,2 @@
+ 20241128-170940,[command] python run_expid.py --config ./config/wFS_avazu_x1 --expid wFS_avazu_x1_001_2e046612 --gpu 0,[exp_id] wFS_avazu_x1_001_2e046612,[dataset_id] avazu_x1_0bbde04e,[train] N.A.,[val] AUC: 0.747683 - logloss: 0.395625,[test] AUC: 0.766205 - logloss: 0.376221
+ 20241129-161704,[command] python run_expid.py --config ./config/wFS_avazu_x1 --expid wFS_avazu_x1_001_2e046612 --gpu 0,[exp_id] wFS_avazu_x1_001_2e046612,[dataset_id] avazu_x1_0bbde04e,[train] N.A.,[val] AUC: 0.747683 - logloss: 0.395625,[test] AUC: 0.766205 - logloss: 0.376221
